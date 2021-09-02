@@ -1,2 +1,2 @@
-# prace_text_mining
-Repository pro text mining v češtině. Soubor "stopky.R" obsahuje example kód, který vezme ukázkový dataframe složený z více řádků a sloupců, a spočte celkový počet stopwords pro každý řádek.
+# prace
+Repository pro .R soubory, ve kterých je syntax, co by se mohl hodit
